@@ -1,6 +1,3 @@
-# Name: Marvel Jefferson Luke
-# Student Number: 24722784
-
 '''This function find_root() is used to get the root of a given city that we would like to find and use in the city_union() function later. In here, we also add
    the argument ancestor_dict because we define the function outside the main trains_planes function, so we need to give this ancestor_dict argument so that
    the function knows which dictionary we are using and can execute the code. The ancestor_dict itself is a dictionary that maps the key of a city to its parent/ancestor which is also another city or can
